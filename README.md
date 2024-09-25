@@ -10,7 +10,7 @@ S. Che, Z. Kong, H. Peng, L. Sun, A. Leow, Y. Chen, and L. He, “Federated mult
 
 S. Feng and H. Yu, “Multi-participant multi-class vertical federated learning,” ArXiv Preprint ArXiv:2001.11154, 2020.
 
-• supMVLFL: a distributed multi-view learning method, which performs supervised multi-view featureselection under a linear transformation framework. [suggested configuration: β ∈ {10−5 , 10−4 , ..., 10}]
+• supMVLFL: a distributed multi-view learning method, which performs supervised multi-view featureselection under a linear transformation framework. [suggested configuration: β ∈ {10−5 , 10−4 , ..., 10}]
 
 Z. Zhao, L. Wang, and H. Liu, “Efficient spectral feature selection with minimum redundancy,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 24, no. 1, 2010, pp. 673–678.
 
