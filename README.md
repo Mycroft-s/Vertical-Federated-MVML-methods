@@ -6,7 +6,7 @@ Z. Zhao, L. Wang, and H. Liu, “Efficient spectral feature selection with minim
 
 S. Che, Z. Kong, H. Peng, L. Sun, A. Leow, Y. Chen, and L. He, “Federated multi-view learning for private medical data integration and analysis,” ACM Transactions on Intelligent Systems and Technology, vol. 13, no. 4, pp. 1–23, 2022.
 
-• MMVFL: a vertical federated learning multi-view method, which learns a separate model for each participant to make the learning process more personalized. [suggested configuration: β ∈ {10−5 , 10−4 , ..., 10}, ζ = 1000 and η1 = 1000]
+• MMVFL: a vertical federated learning multi-view method, which learns a separate model for each participant to make the learning process more personalized. [suggested configuration: β ∈ {10−5 , 10−4 , ..., 10}, ζ = 1000 and η1 = 1000]
 
 S. Feng and H. Yu, “Multi-participant multi-class vertical federated learning,” ArXiv Preprint ArXiv:2001.11154, 2020.
 
